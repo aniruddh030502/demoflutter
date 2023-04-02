@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "799556002488",
+    "firebase_url": "https://studentinfo-437c2-default-rtdb.firebaseio.com",
+    "project_id": "studentinfo-437c2",
+    "storage_bucket": "studentinfo-437c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799556002488:android:a08e013f2e036339f3ca4d",
+        "android_client_info": {
+          "package_name": "com.example.closer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799556002488-6c1jqap5r0jbr1jfia6h5epvvv5ladav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe9HqWKDrScc-CSJtJDYWHaqCjuVn6q-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799556002488-6c1jqap5r0jbr1jfia6h5epvvv5ladav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
